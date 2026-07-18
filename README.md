@@ -1,4 +1,4 @@
-﻿# SLM chatbot using tinylama
+
 # 🤖 SLM TinyLlama Chatbot
 
 A lightweight AI chatbot built using the TinyLlama Small Language Model (SLM) and Flask. The chatbot runs locally through Ollama and provides fast, interactive conversations without relying on cloud-based APIs.
@@ -174,14 +174,8 @@ TinyLlama
 
 **Abdul**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+- GitHub: https://github.com/Hakkeem7
+- LinkedIn: https://www.linkedin.com/in/kabdul-hakkeem/
 
 ---
 
