@@ -1,2 +1,2 @@
-﻿# local-LLM-integration
-#
+﻿# SLM chatbot using tinylama
+ 
